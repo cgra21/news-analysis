@@ -1,10 +1,8 @@
-# political-analysis
-NLP Based Project for determining semantic using in political texts
+# News Analysis
+NLP Based Project for determining semantic using in news
 
-This is a project which will analyze the semantics present in political writing, and how those semantics determine which political leaning the writing is recieved as.
-
-It is designed to determine which parts of a political writing make it the political leaning it is.
-For example, is the way an article talks about firearms and the second amendement deterministic to it's writers political leaning? How so? What other parts of the writing are similar to this?
+This project will explore the language used in news, and whether or not publication has a larger effect on that language than topic or authorship alone.
+It will attempt to determine "what makes the news, the news"
 
 ## 0. Abstract
 
